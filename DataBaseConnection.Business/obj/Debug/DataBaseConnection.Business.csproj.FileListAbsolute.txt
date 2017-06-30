@@ -1,0 +1,7 @@
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Business\bin\Debug\DataBaseConnection.Business.dll
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Business\bin\Debug\DataBaseConnection.Business.pdb
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Business\bin\Debug\DataBaseConnection.Data.dll
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Business\bin\Debug\DataBaseConnection.Data.pdb
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Business\obj\Debug\DataBaseConnection.Business.csprojResolveAssemblyReference.cache
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Business\obj\Debug\DataBaseConnection.Business.dll
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Business\obj\Debug\DataBaseConnection.Business.pdb

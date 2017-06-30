@@ -1,0 +1,10 @@
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Tests\bin\Debug\DataBaseConnection.Tests.dll
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Tests\bin\Debug\DataBaseConnection.Tests.pdb
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Tests\bin\Debug\DataBaseConnection.Business.dll
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Tests\bin\Debug\DataBaseConnection.Data.dll
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Tests\bin\Debug\DataBaseConnection.Business.pdb
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Tests\bin\Debug\DataBaseConnection.Data.pdb
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Tests\obj\Debug\DataBaseConnection.Tests.csprojResolveAssemblyReference.cache
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Tests\obj\Debug\DataBaseConnection.Tests.dll
+c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Tests\obj\Debug\DataBaseConnection.Tests.pdb
