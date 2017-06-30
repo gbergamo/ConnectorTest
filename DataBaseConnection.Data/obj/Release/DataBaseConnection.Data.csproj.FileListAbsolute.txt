@@ -1,0 +1,5 @@
+C:\Users\gobm\Source\Repos\ConnectorTest\DataBaseConnection.Data\bin\Release\DataBaseConnection.Data.dll
+C:\Users\gobm\Source\Repos\ConnectorTest\DataBaseConnection.Data\bin\Release\DataBaseConnection.Data.pdb
+C:\Users\gobm\Source\Repos\ConnectorTest\DataBaseConnection.Data\obj\Release\DataBaseConnection.Data.csprojResolveAssemblyReference.cache
+C:\Users\gobm\Source\Repos\ConnectorTest\DataBaseConnection.Data\obj\Release\DataBaseConnection.Data.dll
+C:\Users\gobm\Source\Repos\ConnectorTest\DataBaseConnection.Data\obj\Release\DataBaseConnection.Data.pdb

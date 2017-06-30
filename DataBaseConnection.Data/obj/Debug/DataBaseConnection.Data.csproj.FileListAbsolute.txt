@@ -3,3 +3,8 @@ c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseC
 c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Data\obj\Debug\DataBaseConnection.Data.csprojResolveAssemblyReference.cache
 c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Data\obj\Debug\DataBaseConnection.Data.dll
 c:\users\gobm\documents\visual studio 2017\Projects\DataBaseConnection\DataBaseConnection.Data\obj\Debug\DataBaseConnection.Data.pdb
+C:\Users\gobm\Source\Repos\ConnectorTest\DataBaseConnection.Data\bin\Debug\DataBaseConnection.Data.dll
+C:\Users\gobm\Source\Repos\ConnectorTest\DataBaseConnection.Data\bin\Debug\DataBaseConnection.Data.pdb
+C:\Users\gobm\Source\Repos\ConnectorTest\DataBaseConnection.Data\obj\Debug\DataBaseConnection.Data.csprojResolveAssemblyReference.cache
+C:\Users\gobm\Source\Repos\ConnectorTest\DataBaseConnection.Data\obj\Debug\DataBaseConnection.Data.dll
+C:\Users\gobm\Source\Repos\ConnectorTest\DataBaseConnection.Data\obj\Debug\DataBaseConnection.Data.pdb

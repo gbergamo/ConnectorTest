@@ -1,0 +1,1 @@
+C:\Users\gobm\Source\Repos\ConnectorTest\DataBaseConnection.Tests\obj\Release\DataBaseConnection.Tests.csprojResolveAssemblyReference.cache

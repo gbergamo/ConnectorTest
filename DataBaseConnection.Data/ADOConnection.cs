@@ -6,7 +6,7 @@ namespace DataBaseConnection.Data
 {
     public class ADOConnection
     {
-        readonly string connetionString = System.Configuration.ConfigurationManager.ConnectionStrings["mainConnection"].ConnectionString;
+        readonly string connetionString = ConfigurationManager.ConnectionStrings["mainConnection"].ConnectionString;
 
         public bool CheckDataConnection()
         {
