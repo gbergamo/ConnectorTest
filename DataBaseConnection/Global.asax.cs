@@ -14,5 +14,6 @@ namespace DataBaseConnection
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }
+
     }
 }
