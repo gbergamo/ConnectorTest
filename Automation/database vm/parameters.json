@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "servers_autodb_brag_soft_name": {
+            "value": null
+        },
+        "databases_master_name": {
+            "value": null
+        },
+        "databases_db_name": {
+            "value": null
+        },
+        "firewallRules_AllowAllWindowsAzureIps_name": {
+            "value": null
+        },
+        "firewallRules_ClientIPAddress_2017_5_5_10_37_40_name": {
+            "value": null
+        }
+    }
+}
